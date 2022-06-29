@@ -8,7 +8,7 @@ struct data{
 };
 
 
-void CRC_16_cal(struct data*, int*, int*, int* );
+void CRC_16_cal(struct data*, int*);
 
 
 
